@@ -16,3 +16,5 @@ button1.pack()
 
 button2 = Button(window, text="Generate bad ideas!",command=get_neww_idea)
 button2.pack()
+
+print("i dont know ")
